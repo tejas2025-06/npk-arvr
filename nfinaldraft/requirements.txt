@@ -1,0 +1,10 @@
+Flask
+pyserial
+pandas
+numpy
+scikit-learn
+opencv-python
+pymongo
+python-dotenv
+mediapipe
+xgboost
